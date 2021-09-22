@@ -1,1 +1,1 @@
-# ShapeAIprojectDA
+# ShapeAI Data Analytics Project
